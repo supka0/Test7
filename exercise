@@ -1,0 +1,56 @@
+#Средний (В)
+#1)
+#class Message:
+#     def __init__(self, person, message_text):
+#         self.person = person
+#         self.message_text = message_text
+#
+#     def sey_hello(self):
+#         print(f"Привет для {self.person}: {self.message_text}")
+#
+#
+#
+# messeng2 = Message("Tom", "добрый день")
+# messeng2.sey_hello()
+#
+#2)
+# class Message:
+#     def __init__(self, person, message_text):
+#         self.person = person
+#         self.message_text = message_text
+#
+#     def sey_hello(self):
+#         print(f"Привет для {self.person}: {self.message_text}")
+#
+#
+#
+# messeng2 = Message("Вася", "добрый день")
+# messeng2.sey_hello()
+# messeng3 = Message("Коля", "добрый вечер")
+# messeng2.sey_hello()
+#
+#
+#
+#3)
+# class Message:
+#     def __init__(self, person, message_text):
+#         self.person = person
+#         self.message_text = message_text
+# 
+#     def sey_hello(self):
+#         print(f"Привет для {self.person}: {self.message_text}")
+# 
+# class Message2(Message):
+#     def sey_bye(self):
+#         print(f"Пока для {self.person}: {self.message_text}")
+# 
+# 
+# messeng = Message2("Вася", "Прощайте")
+# messeng.sey_bye()
+# 
+# messeng2 = Message2("Коля", "добрый вечер")
+# messeng2.sey_hello()
+
+
+
+
